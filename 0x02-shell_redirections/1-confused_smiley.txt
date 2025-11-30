@@ -1,0 +1,5 @@
+#!/bin/bash
+# ...
+printf '%s\n' '"(Ôo)'"
+
+However, I've stuck with the common `echo` solution above. Remember to make the file executable using `chmod u+x 0x02-shell_redirections/1-confused_smiley` before running it!
